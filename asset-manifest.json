@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Cobi-Gottschalk-/static/css/main.2ba1b2b8.css",
-    "main.js": "/Cobi-Gottschalk-/static/js/main.ed45e9e0.js",
+    "main.css": "/Cobi-Gottschalk-/static/css/main.06d49206.css",
+    "main.js": "/Cobi-Gottschalk-/static/js/main.698f4431.js",
     "static/js/787.715c3f4e.chunk.js": "/Cobi-Gottschalk-/static/js/787.715c3f4e.chunk.js",
     "static/media/background-video.mp4": "/Cobi-Gottschalk-/static/media/background-video.6c7ff7dcae45d5c09ab4.mp4",
     "static/media/pollen-jeans.jpg": "/Cobi-Gottschalk-/static/media/pollen-jeans.785e7f2cfca8623a8a09.jpg",
@@ -25,12 +25,12 @@
     "static/media/team-profile-generator.png": "/Cobi-Gottschalk-/static/media/team-profile-generator.48a0b3b7863d5593f38c.png",
     "static/media/readme-generator.png": "/Cobi-Gottschalk-/static/media/readme-generator.14489fbbe97590b2e7ec.png",
     "index.html": "/Cobi-Gottschalk-/index.html",
-    "main.2ba1b2b8.css.map": "/Cobi-Gottschalk-/static/css/main.2ba1b2b8.css.map",
-    "main.ed45e9e0.js.map": "/Cobi-Gottschalk-/static/js/main.ed45e9e0.js.map",
+    "main.06d49206.css.map": "/Cobi-Gottschalk-/static/css/main.06d49206.css.map",
+    "main.698f4431.js.map": "/Cobi-Gottschalk-/static/js/main.698f4431.js.map",
     "787.715c3f4e.chunk.js.map": "/Cobi-Gottschalk-/static/js/787.715c3f4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ba1b2b8.css",
-    "static/js/main.ed45e9e0.js"
+    "static/css/main.06d49206.css",
+    "static/js/main.698f4431.js"
   ]
 }
