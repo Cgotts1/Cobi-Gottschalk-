@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cobi-Gottschalk-/static/css/main.739e7f01.css",
-    "main.js": "/Cobi-Gottschalk-/static/js/main.8541eb65.js",
+    "main.js": "/Cobi-Gottschalk-/static/js/main.7a2852e5.js",
     "static/js/787.715c3f4e.chunk.js": "/Cobi-Gottschalk-/static/js/787.715c3f4e.chunk.js",
     "static/media/background-video.mp4": "/Cobi-Gottschalk-/static/media/background-video.6c7ff7dcae45d5c09ab4.mp4",
     "static/media/pollen-jeans.jpg": "/Cobi-Gottschalk-/static/media/pollen-jeans.785e7f2cfca8623a8a09.jpg",
@@ -16,6 +16,7 @@
     "static/media/ucsd-logo.png": "/Cobi-Gottschalk-/static/media/ucsd-logo.8e0234280779b94a6d89.png",
     "static/media/spotify-assistant.png": "/Cobi-Gottschalk-/static/media/spotify-assistant.5240d2c914a7a686628f.png",
     "static/media/csun-logo.png": "/Cobi-Gottschalk-/static/media/csun-logo.eaa5d385f52e8a362f19.png",
+    "static/media/real-estate-glossary.png": "/Cobi-Gottschalk-/static/media/real-estate-glossary.7cd6002ca6fc776122be.png",
     "static/media/note-taker.png": "/Cobi-Gottschalk-/static/media/note-taker.5ccd69fa30368d7e18f9.png",
     "static/media/color-changer.png": "/Cobi-Gottschalk-/static/media/color-changer.5b28e4d3c3beff441800.png",
     "static/media/Tech-CV.pdf": "/Cobi-Gottschalk-/static/media/Tech-CV.9b33d53ab7e0a30a1c2c.pdf",
@@ -25,11 +26,11 @@
     "static/media/readme-generator.png": "/Cobi-Gottschalk-/static/media/readme-generator.14489fbbe97590b2e7ec.png",
     "index.html": "/Cobi-Gottschalk-/index.html",
     "main.739e7f01.css.map": "/Cobi-Gottschalk-/static/css/main.739e7f01.css.map",
-    "main.8541eb65.js.map": "/Cobi-Gottschalk-/static/js/main.8541eb65.js.map",
+    "main.7a2852e5.js.map": "/Cobi-Gottschalk-/static/js/main.7a2852e5.js.map",
     "787.715c3f4e.chunk.js.map": "/Cobi-Gottschalk-/static/js/787.715c3f4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.739e7f01.css",
-    "static/js/main.8541eb65.js"
+    "static/js/main.7a2852e5.js"
   ]
 }
